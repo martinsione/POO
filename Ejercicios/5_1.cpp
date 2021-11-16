@@ -11,7 +11,7 @@ int main() {
     // ifstream file("notes.txt");
 
     ifstream file;
-    file.open("notes.txt");
+    file.open("archives/5_1-notes.txt");
 
     /* if (!file.is_open()) { */
     /*     cerr << "El archivo no se abrio correctamente" << endl; */
@@ -20,7 +20,7 @@ int main() {
 
     file.close();
 
-    ofstream archi("5_1-notes.txt", ios::app);
+    ofstream archi("archives/5_1-notes.txt", ios::app);
     if (!archi.is_open()) {
         cout << "no lo pude abrir";
         return 1;

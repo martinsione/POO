@@ -1,0 +1,6 @@
+# ejemplo de configuracion
+materia=POO
+carrera=Ingenieria Informatica
+facultad=facultad de ingenieria y ciencias hidricas
+# comentario
+universidad=Universidad Nacional del Litoral
