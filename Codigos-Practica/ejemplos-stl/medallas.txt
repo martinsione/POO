@@ -1,0 +1,93 @@
+10 11 16 Alemania
+0 1 0 Arabia Saudita
+0 1 2 Argentina
+0 2 2 Armenia
+17 7 22 Australia
+1 1 5 Austria
+0 3 4 Azerbaiyán
+2 0 0 Bahamas
+0 1 0 Baréin
+1 0 0 Bermudas
+1 3 3 Bielorrusia
+0 0 1 Botsuana
+7 6 8 Brasil
+3 1 2 Bulgaria
+0 0 1 Burkina Faso
+3 1 3 Bélgica
+20 28 23 COR
+7 6 11 Canadá
+2 0 1 Catar
+38 32 18 China
+2 4 6 China Taipéi
+0 4 1 Colombia
+6 4 10 Corea del Sur
+0 0 1 Costa de Marfil
+3 3 2 Croacia
+7 3 5 Cuba
+3 4 4 Dinamarca
+2 1 0 Ecuador
+1 1 4 Egipto
+1 2 1 Eslovaquia
+3 1 1 Eslovenia
+3 8 6 España
+39 41 33 Estados Unidos
+1 0 1 Estonia
+1 1 2 Etiopía
+1 2 1 Filipinas
+0 0 2 Finlandia
+1 0 1 Fiyi
+10 12 11 Francia
+2 5 1 Georgia
+0 0 1 Ghana
+22 21 22 Gran Bretaña
+0 0 1 Granada
+2 1 1 Grecia
+1 2 3 Hong Kong
+6 7 7 Hungría
+1 2 4 India
+1 1 3 Indonesia
+2 0 2 Irlanda
+3 2 2 Irán
+2 0 2 Israel
+10 10 20 Italia
+4 1 4 Jamaica
+27 14 17 Japón
+0 1 1 Jordania
+0 0 8 Kazajistán
+4 4 2 Kenia
+0 2 1 Kirguistán
+2 0 0 Kosovo
+0 0 1 Kuwait
+1 0 1 Letonia
+0 1 0 Lituania
+0 1 0 Macedonia del Norte
+0 1 1 Malasia
+1 0 0 Marruecos
+0 0 1 Moldavia
+0 1 3 Mongolia
+0 0 4 México
+0 1 0 Namibia
+0 1 1 Nigeria
+4 2 2 Noruega
+7 6 7 Nueva Zelanda
+10 12 14 Países Bajos
+4 5 5 Polonia
+1 1 2 Portugal
+1 0 0 Puerto Rico
+4 4 3 República Checa
+0 3 2 República Dominicana
+1 3 0 Rumania
+0 1 2 San Marino
+3 1 5 Serbia
+0 0 1 Siria
+1 2 0 Sudáfrica
+3 6 0 Suecia
+3 4 6 Suiza
+1 0 1 Tailandia
+0 1 0 Turkmenistán
+2 2 9 Turquía
+1 1 0 Túnez
+1 6 12 Ucrania
+2 1 1 Uganda
+3 0 2 Uzbekistán
+1 3 0 Venezuela
